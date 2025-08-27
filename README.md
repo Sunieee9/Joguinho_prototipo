@@ -1,2 +1,2 @@
 # Joguinho_prototipo
-Testes
+Testes do joguinho
